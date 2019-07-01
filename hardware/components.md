@@ -1,11 +1,11 @@
 # Components
 
-| Component                             | API / Libs     | Breakout board             | Misc |
-| ---                                   | ---            | ---                        | ---  |
-| [Espressif ESP32 MCU][1]              | [ESP-IDF][2]<br>fisch   | [Himalaya Matrix Core][3]  | -    |
+| Component                             | Breakout board             | Arduino Libs | Misc             |
+| ---                                   | ---                        | ---          | ---              |
+| [Espressif ESP32 MCU][1]              | [Himalaya Matrix Core][2]  | -            | [ESP-IDF API][3] |
 
 
 
 [1]:https://www.espressif.com/en/products/hardware/esp32/overview
-[2]:https://docs.espressif.com/projects/esp-idf/en/latest/
-[3]:https://eckstein-shop.de/HIMALAYA-Matrix-Core-ESP32-Entwicklerboard-mit-ESP32-Bit-WiFi-Bluetooth-IoT-DEV-Board
+[2]:https://eckstein-shop.de/HIMALAYA-Matrix-Core-ESP32-Entwicklerboard-mit-ESP32-Bit-WiFi-Bluetooth-IoT-DEV-Board
+[3]:https://docs.espressif.com/projects/esp-idf/en/latest/
