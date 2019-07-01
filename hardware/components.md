@@ -2,7 +2,7 @@
 
 | Component                             | API / Libs     | Breakout board             | Misc |
 | ---                                   | ---            | ---                        | ---  |
-| [Espressif ESP32 MCU][1]              | [ESP-IDF][2]   | [Himalaya Matrix Core][3]  | -    |
+| [Espressif ESP32 MCU][1]              | [ESP-IDF][2]\ fisch   | [Himalaya Matrix Core][3]  | -    |
 
 
 
